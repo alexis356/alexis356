@@ -3,10 +3,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🏫 &nbsp; Studing for ITI Graduation.
-- 🚀 &nbsp; Experienced in developing and deploying Web site and Discord Bot using JavaScript.
+- 🚀 &nbsp; Experienced in web developing, videogame programmer and network administration.
 - 🤔 &nbsp; Open to collaborating with others on open-source projects and sharing knowledge.
-- 💬 &nbsp; Ask me anything about discord bots.
-- 🌱 &nbsp; Currently learning Discord.js.
+- 💬 &nbsp; Ask me anything about networks, web programming and also what you want.
+- 🌱 &nbsp; Currently learning Flutter and Android Studio.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
